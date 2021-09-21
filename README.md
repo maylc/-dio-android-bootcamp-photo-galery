@@ -1,2 +1,8 @@
-# -dio-android-bootcamp-photo-galery
-Utilizando Recursos Nativos do Android - Biblioteca de Fotos
+
+# Informacoes do Curso: 
+
+Plataforma: Digital Innovation One
+
+Curso: Utilizando Recursos Nativos do Android
+
+Modulo: Recurso de biblioteca de fotos
